@@ -1,0 +1,14 @@
+layout_spectrum: 0.7570794702041894
+typography_spectrum: 0.9583819974213839
+color:
+  brandStrength: 0.6919237188994884
+  lightness: 0.3971732051577419
+  saturation: 0.18386055948212743
+  rhythmicContrast: 0.9815551226492971
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: infin
